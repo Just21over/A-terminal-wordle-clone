@@ -1,6 +1,6 @@
 # A-bad-wordle-clone
 A bad version of wordle using python
-Other than the colorama and random module, this code is pretty self explanatory if you understand python
+Other than the colorama and random module, this code is pretty self explanatory if you understand python and file handling
 
 Also for some odd reason colorama refuses to work on python 3.14 and above so use python 3.13
 
