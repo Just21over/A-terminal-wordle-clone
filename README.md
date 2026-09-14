@@ -1,4 +1,4 @@
-# A-bad-wordle-clone
+# A-terminal-wordle-clone
 A bad version of wordle using python
 Other than the colorama and random module, this code is pretty self explanatory if you understand python and file handling
 
