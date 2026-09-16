@@ -1,9 +1,11 @@
 # A-terminal-wordle-clone
 A terminal based version of wordle using python only.
+
 The main wordle file is called wordle.py
 
 functions.py consists of two functions which
 
+words.txt consists of words which wordle.py reads and picks a word at random
 1. return true or false based on user input
 2. accept and process user input.
 
